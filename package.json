@@ -1,6 +1,6 @@
 {
   "name": "chhosts",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "change hosts",
   "main": "lib/index.js",
   "bin": "bin/chhosts.js",
